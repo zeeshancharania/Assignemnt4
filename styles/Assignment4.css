@@ -1,0 +1,19 @@
+h1 {text-align: center; font-family: sans-serif; }
+
+section.showarea1 {visibility: hidden ; width: 600px ; background-color: #669999 ; }
+
+section.showarea2 {visibility: hidden ; width: 600px ; background-color: #a3a375 ;position: relative ; bottom: 490px;}
+
+#Glasses {width: 200px ; height: 200px; }
+
+#SupermanGodfall {height: 200px; width: 200px; }
+
+#GasMonkey { height: 200px; width: 200px; }
+
+#Gaming {height: 200px; width: 200px; }
+
+#Charity {height: 200px; width: 200px; }
+
+#NoGlasses {height: 200px; width: 200px; }
+
+footer {position: relative; bottom: 490px; font-style: italic; width: 600px; background-color: #EEEEEE; text-align: center; }
